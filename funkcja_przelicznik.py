@@ -1,3 +1,4 @@
 #  funkcja przelicznik(int) konwertuje PLN na USD
 def przelicznik(kwota):
-    pass
+    return kwota / 4
+
