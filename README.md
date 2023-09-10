@@ -1,0 +1,1 @@
+# niedziela_wsb_git
